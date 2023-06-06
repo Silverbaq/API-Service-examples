@@ -1,0 +1,17 @@
+/Users/stmo/Github/C#/API Services/REST/bin/Debug/net7.0/REST
+/Users/stmo/Github/C#/API Services/REST/bin/Debug/net7.0/REST.deps.json
+/Users/stmo/Github/C#/API Services/REST/bin/Debug/net7.0/REST.runtimeconfig.json
+/Users/stmo/Github/C#/API Services/REST/bin/Debug/net7.0/REST.dll
+/Users/stmo/Github/C#/API Services/REST/bin/Debug/net7.0/REST.pdb
+/Users/stmo/Github/C#/API Services/REST/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.csproj.AssemblyReference.cache
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.AssemblyInfoInputs.cache
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.AssemblyInfo.cs
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.csproj.CoreCompileInputs.cache
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.csproj.CopyComplete
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.dll
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/refint/REST.dll
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.pdb
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/REST.genruntimeconfig.cache
+/Users/stmo/Github/C#/API Services/REST/obj/Debug/net7.0/ref/REST.dll

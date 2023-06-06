@@ -1,0 +1,15 @@
+/Users/stmo/Github/C#/API Services/SOAP/bin/Debug/net7.0/SOAP
+/Users/stmo/Github/C#/API Services/SOAP/bin/Debug/net7.0/SOAP.deps.json
+/Users/stmo/Github/C#/API Services/SOAP/bin/Debug/net7.0/SOAP.runtimeconfig.json
+/Users/stmo/Github/C#/API Services/SOAP/bin/Debug/net7.0/SOAP.dll
+/Users/stmo/Github/C#/API Services/SOAP/bin/Debug/net7.0/SOAP.pdb
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/SOAP.csproj.AssemblyReference.cache
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/SOAP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/SOAP.AssemblyInfoInputs.cache
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/SOAP.AssemblyInfo.cs
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/SOAP.csproj.CoreCompileInputs.cache
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/SOAP.dll
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/refint/SOAP.dll
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/SOAP.pdb
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/SOAP.genruntimeconfig.cache
+/Users/stmo/Github/C#/API Services/SOAP/obj/Debug/net7.0/ref/SOAP.dll

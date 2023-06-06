@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL", "GraphQL\GraphQL.csproj", "{2BF69380-447C-4FFB-AC79-9F7B1042C77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST", "REST\REST.csproj", "{8446A92F-7A78-4667-AEF4-F00FE7DFA3D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAP", "SOAP\SOAP.csproj", "{A1B1EAF8-8DA6-4CBD-BB0C-87F6B676C072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF69380-447C-4FFB-AC79-9F7B1042C77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF69380-447C-4FFB-AC79-9F7B1042C77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF69380-447C-4FFB-AC79-9F7B1042C77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF69380-447C-4FFB-AC79-9F7B1042C77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8446A92F-7A78-4667-AEF4-F00FE7DFA3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8446A92F-7A78-4667-AEF4-F00FE7DFA3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8446A92F-7A78-4667-AEF4-F00FE7DFA3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8446A92F-7A78-4667-AEF4-F00FE7DFA3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B1EAF8-8DA6-4CBD-BB0C-87F6B676C072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B1EAF8-8DA6-4CBD-BB0C-87F6B676C072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B1EAF8-8DA6-4CBD-BB0C-87F6B676C072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B1EAF8-8DA6-4CBD-BB0C-87F6B676C072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

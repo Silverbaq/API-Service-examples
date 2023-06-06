@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZ7ubEWvAO/WxEoM0OfnXxvSMHd48v9JTtetJA/vJdbegkdbcz/VBmwUaXjchZG1NFSTQE8xzigI4gMN89mdWA==",
+  "success": true,
+  "projectFilePath": "/Users/stmo/Github/C#/API Services/GraphQL/GraphQL.csproj",
+  "expectedPackageFiles": [
+    "/Users/stmo/.nuget/packages/graphql.client/6.0.0/graphql.client.6.0.0.nupkg.sha512",
+    "/Users/stmo/.nuget/packages/graphql.client.abstractions/6.0.0/graphql.client.abstractions.6.0.0.nupkg.sha512",
+    "/Users/stmo/.nuget/packages/graphql.client.abstractions.websocket/6.0.0/graphql.client.abstractions.websocket.6.0.0.nupkg.sha512",
+    "/Users/stmo/.nuget/packages/graphql.client.serializer.newtonsoft/6.0.0/graphql.client.serializer.newtonsoft.6.0.0.nupkg.sha512",
+    "/Users/stmo/.nuget/packages/graphql.primitives/6.0.0/graphql.primitives.6.0.0.nupkg.sha512",
+    "/Users/stmo/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/stmo/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

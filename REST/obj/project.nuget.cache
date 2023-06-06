@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGa8jpOTo1S4XWmvC17y+QvUhQv3ho89Ei/fWMTpaLHgflxHud+UbjSJL4/QJJ+NPEFG1+pRNCSIAn7kdwEhHQ==",
+  "success": true,
+  "projectFilePath": "/Users/stmo/Github/C#/API Services/REST/REST.csproj",
+  "expectedPackageFiles": [
+    "/Users/stmo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
